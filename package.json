@@ -65,3 +65,8 @@
     "typescript": "^5.7.2"
   }
 }
+{
+  "version": 2,
+  "framework": null,
+  "buildCommand": "npm run build"
+}
